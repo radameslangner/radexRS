@@ -22,5 +22,9 @@ Curso focado em react e next JS.
 
 ## Status
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radexRS&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=radexRS&theme=dark)
+<!--
+## Trofeis 
+[![trophy](https://github-profile-trophy.vercel.app/?username=radexRS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
