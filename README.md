@@ -1,4 +1,13 @@
-### Hi there 👋
+## Olá
+
+### Quem sou eu?
+Meu nome é Radamés, estou trilhando o curso de Formação Dev da Cod3r.
+Curso focado em react e next JS.
+
+- 😄 Pronomes: Ele/dele.
+- 💬 Fale comigo: javascript, HTML, POO, arquitetura, padrões de projetos...
+- 🌱 Atualmente: Aprendendo React e next JS.
+- ⚡  Fato divertido: Procurando casa no litoral gaúcho!  
 
 <!--
 **radexRS/radexRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
