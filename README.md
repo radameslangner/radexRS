@@ -21,9 +21,17 @@ Curso focado em react e next JS.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
 
 ## Status
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radexRS&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=radexRS&theme=dark)
+
+</div>
+
+## Contrate me
+[![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radam%C3%A9s-langner-0814086a/)
+
+
 <!--
 ## Trofeis 
 [![trophy](https://github-profile-trophy.vercel.app/?username=radexRS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
