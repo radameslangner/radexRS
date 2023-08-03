@@ -1,3 +1,5 @@
+![Imagem de Boas Vindas](Black-Minimal-Motivation-Quote-LinkedIn-Banner.gif)
+
 ## Olá:heavy_exclamation_mark:
 
 ### 🤔 Quem sou eu?
