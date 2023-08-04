@@ -1,4 +1,4 @@
-![Imagem de Boas Vindas](Black-Minimal-Motivation-Quote-LinkedIn-Banner.gif)
+![Imagem de Boas Vindas](Black-Minimal-Motivation-Quote-LinkedIn-Banner-02.gif)
 
 ## Olá:heavy_exclamation_mark:
 
