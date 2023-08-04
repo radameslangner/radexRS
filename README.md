@@ -2,9 +2,9 @@
 
 ## Olá:heavy_exclamation_mark:
 
-### 🤔 Quem sou eu?
-Meu nome é Radamés, estou trilhando o curso de Formação Dev da Cod3r.
-Curso focado em react e next JS.
+### 🤔 Sobre mim.
+Tecnólogo em sistemas para internet (formado pela IFSUL), trilhando o curso de Formação Dev da Cod3r.
+Focado em react e next JS.
 
 - 😄 Pronomes: Ele/dele.
 - 💬 Fale comigo: Javascript, HTML, POO, arquitetura, padrões de projetos...
